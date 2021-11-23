@@ -1,6 +1,8 @@
 ## Hi there,🐾
 
-### I'm Korean Full-Stack Developer 👩‍💻👩‍💻
+### I'm  @jenny-han, Korean Full-Stack Developer 👩‍💻👩‍💻
 #### sometime I support pre-sales work
 
-main stack : JAVA, Spring Boot, JPA, HTML, Vue.js, javascript, JSP, MySQL, AWS .. ETC
+- 👀 My main stack : JAVA, Spring Boot, JPA, python, HTML, Vue.js, javascript, JSP, MySQL, AWS .. ETC
+- 🌱 I’m currently learning ... Computer Science, AI, BigData
+- 💞️ I want to be a Social Enterprise CEO.
